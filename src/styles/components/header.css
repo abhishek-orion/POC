@@ -1,0 +1,58 @@
+.appBar {
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+  margin-left: 15px;
+}
+
+.margin-left-final {
+  margin-left: 16rem;
+}
+
+.investment {
+  width: 83%
+}
+
+.fixed {
+  position: fixed;
+}
+.margin-app {
+  margin-top:63px;
+}
+.overview {
+  width: 75rem;
+  float: right;
+}
+
+.quickNotification {
+  padding: 20px!important;
+}
+
+.divider {
+  margin: 20px;
+}
+
+.lineChart{
+  width:40%;
+}
+
+.sidebar {
+  padding-left: 10px;
+}
+.fundRatings{
+  margin-left: 5%;
+  margin-top: 5%;
+  width:50%;
+}
+.charts {
+  padding: 20px;
+}
+.topFunds {
+  width: 98%;
+  display: -webkit-inline-box;
+  padding: 20px;
+
+}
+.chart{
+  max-width: 50%!important;
+}

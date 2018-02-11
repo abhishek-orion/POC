@@ -27,11 +27,24 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "chart.js": "^2.7.1",
+    "chartkick": "^2.2.4",
+    "fusioncharts": "^3.12.2",
     "lodash": "^3.10.1",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
+    "material-ui": "^0.20.0",
+    "react": "^0.14.9",
+    "react-bootstrap": "^0.32.1",
+    "react-chartkick": "^0.1.6",
+    "react-d3-basic": "^1.6.11",
+    "react-dom": "^0.14.9",
+    "react-fusioncharts": "^1.0.4",
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
-    "redux": "^3.0.4"
+    "react-router-dom": "^4.2.2",
+    "react-sticky": "^6.0.1",
+    "reactstrap": "^5.0.0-beta",
+    "redux": "^3.0.4",
+    "semantic-ui-css": "^2.2.14",
+    "semantic-ui-react": "^0.78.2"
   }
 }
